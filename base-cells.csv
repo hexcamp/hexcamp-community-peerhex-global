@@ -1,124 +1,123 @@
 base_cell,hex_id,subdomain,description
-0,
+0,aapq,asia,Arctic Russia
 1,aa7q,americas,canada arctic greenland
-2,
-3,
-4,
-5,
+2,abpq,asia,Arctic Siberia
+3,ab7q,emea,Greenland Iceland
+4,acpq,emea,Norway Sweden Finland
+5,ac7q,asia,Russia Western Siberia
 6,adpq,americas,Alaska part of Eastern Russia
 7,aa,americas,North Quebec Ontario
-8,
+8,aepq,asia,Russia Moscow
 9,ae7q,americas,BC Yukon Alberta NWT
-10,
-11,
-12,
+10,afpq,asia,Russia Central/Eastern Siberia
+11,af7q,asia,Russia Kamchatka
+12,agpq,emea,Ireland UK Western France
 13,ag7q,americas,Newfoundland
 14,ahpq,americas,Pacific Ocean
-15,
-16,
+15,ae,emea,Germany Italy Ukraine
+16,aipq,asia,Uzbekistan Kazakhstan
 17,ai7q,americas,Alaska Aleutians
-18,
+18,ajpq,asia,Mongolia
 19,aj7q,americas,Winnipeg Chicago Denver
 20,akpq,americas,Vancouver Seattle California
 21,ak7q,americas,Toronto New York Washington DC
-22,
-23,
-24,
-25,
-26,
+22,alpq,emea,East Turkiye Syria Lebanon Iraq Western Iran Northern Israel Caspian Sea Eastern Black Sea Crimea Southern Russia
+23,ai,asia,Japan Hokkaido Honshu
+24,ampq,asia,Korea China Beijing Shanghai
+25,am7q,asia,Pacific Ocean
+26,anpq,emea,Atlantic Madiera Canary Islands
 27,an7q,americas,Pacific Ocean
-28,
+28,aopq,emea,Spain Morocco
 29,ao7q,americas,Atlantic Ocean
-30,
-31,
-32,
-33,
+30,appq,asia,Tibet Nepal Northeast India
+31,am,emea,Greece Libya Egypt
+32,agpq,asia,China Hong Kong Chongqing Hanoi
+33,aq7q,asia,Eastern Iran Afghanistan Pakistan India Gujarat
 34,arpq,americas,Miami Cuba Gulf of Mexico
 35,ar7q,americas,Hawaii Oahu
 36,aspq,americas,Central Mexico US Southwest
-37,a3pq,americas,Mexico Oaxaca El Salvador
+37,as7q,asia,Japan Kyushu Okinawa Taiwan
 38,atpq,americas,Haiti Dominican Republic Jamaica
-39,
+39,aq,asia,Pacific Ocean
 40,aupq,americas,Pacific Ocean
-41,
-42,
-43,
-44,
-45,
+41,au7q,emea,Saudi Arabia Yemen
+42,aypq,emea,West Africa Senegal Guinea
+43,av7q,emea,Atlantic Cabo Verde
+44,awpq,emea,Nigeria
+45,aw7q,asia,Pacific Ocean
 46,axpq,americas,Hawaii Big Island Maui
 47,au,americas,Guyana Suriname French Guiana
-48,
-49,
-50,
+48,aypq,asia,Southern India Sri Lanka
+49,ay7q,emea,Somalia South Oman East Yemen
+50,azpq,asia,Thailand Myanmar Cambodia West Malaysia Western Indonesia
 51,az7q,americas,Costa Rica Colombia Venezuela
-52,
-53,
-54,
+52,a2pq,asia,Philippines South Vietnam Borneo East Malaysia Indonesia
+53,a27q,emea,Sudan Uganda
+54,a3pq,americas,Mexico Oaxaca El Salvador
 55,ay,americas,Pacific Ocean
-56,
-57,
-58,
-59,
+56,a4pq,asia,Pacific Ocean
+57,a47q,asia,Northern Papau
+58,a5pq,emea,Ivory Coast
+59,a57q,asia,Pacific Ocean
 60,a6pq,americas,Pacific Ocean
-61,
-62,
-63,
+61,ag7q,emea,Kenya Somalia Ethiopia
+62,a7pq,emea,Atlantic Ocean
+63,a4,emea,Pacific Ocean
 64,bapq,americas,Brazil Bahia
-65,
-66,
-67,
-68,
+65,ba7q,emea,Gabon Congo Angola
+66,bbpq,emea,Indian Ocean
+67,bb7q,asia,Indian Ocean
+68,bcpq,asia,Pacific Ocean
 69,bc7q,americas,Brazil Amazon
-70,
+70,bdpq,asia,Central Indonesia
 71,ba,americas,Peru Equador
 72,bepq,americas,Pacific Ocean
 73,be7q,americas,Pacific Ocean
-74,
-75,
-76,
-77,
-78,
-79,
-80,
-81,
-82,
-83,
+74,bf7q,asia,Indonesia East Timor Northern Australia
+75,bf7q,emea,Mozambique
+76,bgpq,emea,South Atlantic Ocean
+77,bg7q,asia,Pacific Ocean
+78,bhpq,asia,Papau New Guinea Australia Queensland
+79,be,asia,Pacific Ocean
+80,bipq,asia,Pacific Ocean
+81,bi7q,emea,Madagascar
+82,bjpq,americas,South Atlantic Ocean
+83,bj7q,asia,Western Australia
 84,bkpq,americas,Sao Paulo Rio
-85,
-86,
-87,
+85,bk7q,emea,Indian Ocean
+86,blpq,emea,Namibia West South Africa
+87,bi,asia,Indian Ocean
 88,bmpq,americas,Pacific Ocean
 89,bm7q,americas,Northern Chile Argentina
-90,
+90,bnpq,asia,Pacific Ocean
 91,bn7q,americas,Pacific Ocean
-92,
-93,
-94,
-95,
-96,
+92,bopq,asia,South Australia
+93,b07q,asia,Northern New Zealand
+94,bppq,emea,East South Africa
+95,bm,asia,Eastern Australia
+96,bqpq,emea,South Atlantic Ocean
 97,bq7q,americas,Buenos Aires
-98,
-99,
-100,
-101,
-102,
+98,brpq,americas,South Atlantic Ocean
+99,br7q,asia,Pacific Ocean
+100,bspq,asia,Australia Perth
+101,bs7q,emea,Indian Ocean
+102,btpq,asia,Indian Ocean
 103,bq,americas,Southern Chile Argentina
-104,
+104,bupq,emea,South Atlantic Ocean
 105,bu7q,americas,Pacific Ocean
-106,
-107,
-108,
-109,
-110,
+106,bvpq,asia,Pacific Ocean
+107,bv7q,emea,Indian Ocean
+108,bwpq,asia,Indian Ocean
+109,bw7q,asia,Southern New Zealand
+110,bxpq,americas,South Atlantic Ocean
 111,bu,americas,Tierra Del Fuego Falklands
-112,
-113,
-114,
-115,
+112,bypq,emea,Antarctica
+113,by7q,asia,Pacific Ocean
+114,bzpq,asia,Antarctica
+115,bz7q,emea,Antarctica
 116,b2pq,americas,Antarctica
-117,
-118,
+117,b27q,asia,Pacific Ocean
+118,b2pq,asia,Antarctica
 119,by,americas,Antarctica
-120,
+120,b4pq,asia,Antarctica
 121,b47q,americas,Antarctica
-122,
