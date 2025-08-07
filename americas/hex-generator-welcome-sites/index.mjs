@@ -169,7 +169,7 @@ for (let i = 0; i < 7 * 7; i++) {
   const childDigits = getDigits(childH3Str, childRes);
   console.log('    Digits:', childDigits.join(', '));
   const revDigits = [...childDigits].reverse();
-  const dnsMapping = revDigits.join('.') + '.20.h3.americas.peerhex.org.';
+  const dnsMapping = revDigits.join('.') + '.19.h3.americas.peerhex.org.';
   console.log('    DNS:', dnsMapping);
   output += `${i},${childHexId},${dnsMapping},\n`;
 }
